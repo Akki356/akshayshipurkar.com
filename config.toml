@@ -2,7 +2,7 @@ baseURL = "http://akshayshipurkar.com/"
 languageCode = "en-us"
 title = "Akshay Shipurkar"
 author = "Akshay Shipurkar"
-copyright = "Akshay Shipurkar All rights reserved."
+copyright = "2017 Akshay Shipurkar All Rights Reserved."
 #theme = "ananke"
 theme = "hugo-zen"
 
