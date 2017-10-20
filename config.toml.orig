@@ -1,0 +1,19 @@
+baseURL = "https://akshayshipurkar.com/"
+languageCode = "en-us"
+title = "Akshay Shipurkar"
+author = "Akshay Shipurkar"
+copyright = "2017 Akshay Shipurkar All Rights Reserved."
+#theme = "ananke"
+theme = "hugo-zen"
+googleanalytics = "UA-108374670-1"
+
+[params]
+	logo = "https://scontent.fbom2-1.fna.fbcdn.net/v/t1.0-9/20245911_1623348447689435_2922540952725085538_n.jpg?oh=adfe693894f00b4acbd963be8f5fb598&oe=5A7D203C"
+	twitter = "https://twitter.com/akkishipurkar"
+	facebook = "https://www.facebook.com/akshayshipurkar"
+	github = "https://github.com/Akki356"
+	email = "akshay<nospam>shipurkar<at>gmail<dot>com"
+<<<<<<< HEAD
+=======
+	analytics = "UA-108374670-1"
+>>>>>>> 42f8789e7b3c3589fe362552a54a586b30696857
