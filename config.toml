@@ -45,8 +45,8 @@ email = "AkshayShipurkar<nospam><at>gmail<dot>com"
 
 ## Extras
 [params.extra]
-copyright = "© 2016. Erlich Bachman. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)." 
-poweredby = true
+copyright = "© 2016. Akshay Shipurkar. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)." 
+poweredby = true 
 hightlightjs = true
 
 ## Main Menu
