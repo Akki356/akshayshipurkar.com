@@ -1,15 +1,67 @@
-baseURL = "https://akshayshipurkar.com/"
-languageCode = "en-us"
-title = "Akshay Shipurkar"
-author = "Akshay Shipurkar"
-copyright = "2017 Akshay Shipurkar All Rights Reserved."
-#theme = "ananke"
-theme = "hugo-zen"
-googleanalytics = "UA-108374670-1"
+## Basic Configuration
 
+baseurl = "https://www.akshayshipurkar.com" 
+builddrafts = false
+canonifyurls = false
+languageCode = "en-US"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+author = "Akshay Shipurkar"
+title = "Akshay Shipurkar"
+
+theme = "hugo-goa"
+
+## Hugo Built-in Features
+#disqusShortname = "https-shenoybr-github-io-hugo-goa-demo" # Comment out to disable Disqus.
+googleAnalytics = "XYZ"
+enableRobotsTXT = true
+
+## Site Settings
 [params]
-	logo = "https://scontent.fbom2-1.fna.fbcdn.net/v/t1.0-9/20245911_1623348447689435_2922540952725085538_n.jpg?oh=adfe693894f00b4acbd963be8f5fb598&oe=5A7D203C"
-	twitter = "https://twitter.com/akkishipurkar"
-	facebook = "https://www.facebook.com/akshayshipurkar"
-	github = "https://github.com/Akki356"
-	email = "akshay<nospam>shipurkar<at>gmail<dot>com"
+author = "Akshay Shipurkar"
+intro = "DevOps Engineer | Open Source Evangelist | Multipotentialite "
+description = "Now @Jio Cloud DevOps.  <br/> \"What is F times 5? It's Fleventy-five.\""
+authorimage = "AkshayShipurkar.jpg"
+dateformat = "Jan 2, 2006"
+
+## Site Meta Settings
+[params.meta]
+description = "Akshay Shipurkar akshays personal website blog"
+keywords = "akshay,shipurkar,blog,developer,DevOps,Open-Source,openstack"
+
+## Social Accounts
+[params.social]
+github = "Akki356"
+instagram = "akshayshipurkar"
+linkedin = "akshayshipurkar"
+twitter = "akkishipurkar"
+facebook = "akshayshipurkar"
+google = "akshayshipurkar@gmail.com"
+stackoverflow = "<username>"
+email = "AkshayShipurkar<nospam><at>gmail<dot>com"
+
+## Extras
+[params.extra]
+copyright = "© 2016. Erlich Bachman. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)." 
+poweredby = true
+hightlightjs = true
+
+## Main Menu
+[[menu.main]]
+    name = "blog"
+    weight = 100
+    identifier = "blog"
+    url = "/blog/"
+[[menu.main]]
+    name = "about"
+    identifier = "about"
+    weight = 200
+    url = "/about/"
+#[[menu.main]]
+#    name = "coderag"
+#    identifier = "coderag"
+#    weight = 300
+#    url = "/coderag/"
