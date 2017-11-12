@@ -1,6 +1,6 @@
 ## Basic Configuration
 
-baseurl = "//www.akshayshipurkar.com" 
+baseurl = "akshayshipurkar.com" 
 builddrafts = false
 canonifyurls = false
 languageCode = "en-US"
