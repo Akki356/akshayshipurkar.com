@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/akshayshipurkar
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://akshayshipurkar.com
+  * I am akshayshipurkar (https://keybase.io/akshayshipurkar) on keybase.
+  * I have a public key ASBbRZpvIvXWBL2Rm6jkce0Neysp5NHprfl9qsyvtrWB4Qo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120be165576c5496568b3aa2b7eb791669d7ea38a1455fa26bf7545d05c9e948a1e0a",
+      "host": "keybase.io",
+      "kid": "01205b459a6f22f5d604bd919ba8e471ed0d7b2b29e4d1e9adf97daaccafb6b581e10a",
+      "uid": "6e85e7c4fac42ea9e1e40008146e7419",
+      "username": "akshayshipurkar"
+    },
+    "merkle_root": {
+      "ctime": 1510480282,
+      "hash": "5948ee201fb58e9f22401bac6f5689e30095829e6b48f179e89834a19be11cbe393d6aeabbf82bfd6ec7ec90ede186bb4ad49956991ed94cc7cc637f2d557cad",
+      "hash_meta": "167a91991358c8ee261c93c2b040c6a26ffd15a6d0abde6cf1108b4047dd1601",
+      "seqno": 1695882
+    },
+    "service": {
+      "hostname": "akshayshipurkar.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.34"
+  },
+  "ctime": 1510480303,
+  "expire_in": 504576000,
+  "prev": "0db0fafec45d5d52ed8617aaf5db25ba3918ee7453ecb8960e153ea30be0ae0b",
+  "seqno": 20,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgW0WabyL11gS9kZuo5HHtDXsrKeTR6a35farMr7a1geEKp3BheWxvYWTFA1N7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwYmUxNjU1NzZjNTQ5NjU2OGIzYWEyYjdlYjc5MTY2OWQ3ZWEzOGExNDU1ZmEyNmJmNzU0NWQwNWM5ZTk0OGExZTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNWI0NTlhNmYyMmY1ZDYwNGJkOTE5YmE4ZTQ3MWVkMGQ3YjJiMjllNGQxZTlhZGY5N2RhYWNjYWZiNmI1ODFlMTBhIiwidWlkIjoiNmU4NWU3YzRmYWM0MmVhOWUxZTQwMDA4MTQ2ZTc0MTkiLCJ1c2VybmFtZSI6ImFrc2hheXNoaXB1cmthciJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUxMDQ4MDI4MiwiaGFzaCI6IjU5NDhlZTIwMWZiNThlOWYyMjQwMWJhYzZmNTY4OWUzMDA5NTgyOWU2YjQ4ZjE3OWU4OTgzNGExOWJlMTFjYmUzOTNkNmFlYWJiZjgyYmZkNmVjN2VjOTBlZGUxODZiYjRhZDQ5OTU2OTkxZWQ5NGNjN2NjNjM3ZjJkNTU3Y2FkIiwiaGFzaF9tZXRhIjoiMTY3YTkxOTkxMzU4YzhlZTI2MWM5M2MyYjA0MGM2YTI2ZmZkMTVhNmQwYWJkZTZjZjExMDhiNDA0N2RkMTYwMSIsInNlcW5vIjoxNjk1ODgyfSwic2VydmljZSI6eyJob3N0bmFtZSI6ImFrc2hheXNoaXB1cmthci5jb20iLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4zNCJ9LCJjdGltZSI6MTUxMDQ4MDMwMywiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiIwZGIwZmFmZWM0NWQ1ZDUyZWQ4NjE3YWFmNWRiMjViYTM5MThlZTc0NTNlY2I4OTYwZTE1M2VhMzBiZTBhZTBiIiwic2Vxbm8iOjIwLCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQFywn2yYFHUAWBsSsEUpAvOQ4TWmV/zh2UX4OdNDAEXOeFkLEx2dRPfVehTA6tq7v4cBUbFMHLNEYOePra4KFQqoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCBicD6bHZIUTD3XP+ZzQnGytSuvvD5Kq6fL+brwuUWcdaN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/akshayshipurkar
+
+==================================================================
