@@ -15,7 +15,7 @@ title = "Akshay Shipurkar"
 theme = "hugo-goa"
 
 ## Hugo Built-in Features
-disqusshortname = "https://akshays.disqus.com/" # comment out to disable disqus.
+disqusshortname = "akshays" # comment out to disable disqus.
 googleAnalytics = "XYZ"
 enableRobotsTXT = true
 
