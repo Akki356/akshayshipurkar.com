@@ -1,6 +1,6 @@
 +++
 categories = ["Personal"]
-comments = false
+comments = true
 date = 2017-10-27T16:02:30+05:30
 draft = false
 showpagemeta = true
