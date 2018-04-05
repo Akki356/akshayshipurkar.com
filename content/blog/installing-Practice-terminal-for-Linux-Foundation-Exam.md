@@ -1,5 +1,5 @@
 +++
-categories = ["Milestone"]
+categories = ["Tutorial"]
 comments = true
 date = 2018-02-27T20:13:34+05:30
 showpagemeta = true
@@ -20,7 +20,7 @@ I have had a tough time installing gateone terminal for practicing for openstack
 
 Here goes the command.
 
-`docker run --name gateone -p 443:10443 -p 2345:22 -d greyltc/gateone`
+>docker run --name gateone -p 443:10443 -p 2345:22 -d greyltc/gateone
 
 after the installation is done head to chrome / firefox (chrome is the default for Linux foundation exams).
 
