@@ -25,3 +25,7 @@ Here goes the command.
 after the installation is done head to chrome / firefox (chrome is the default for Linux foundation exams).
 
 Open https://localhost and get started with your practice for your exams :).
+
+It should look some thing like shown below
+
+![Gateone Teminal image] (/img/Gateone-terminal.png)
