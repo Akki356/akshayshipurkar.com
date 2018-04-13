@@ -60,7 +60,7 @@ hightlightjs = true
     name = "about"
     identifier = "about"
     weight = 200
-    url = "/about/"
+    url = "https://www.linkedin.com/in/akshayshipurkar"
 #[[menu.main]]
 #    name = "coderag"
 #    identifier = "coderag"
