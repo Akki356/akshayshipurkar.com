@@ -1,6 +1,6 @@
 ## Basic Configuration
 
-baseurl = "akshayshipurkar.com" 
+baseurl = "https://akshayshipurkar.com/"
 builddrafts = false
 canonifyurls = false
 languageCode = "en-US"
@@ -8,7 +8,6 @@ languageCode = "en-US"
 contentdir = "content"
 layoutdir = "layouts"
 publishdir = "public"
-
 author = "Akshay Shipurkar"
 title = "Akshay Shipurkar"
 
@@ -46,8 +45,8 @@ email = "AkshayShipurkar<nospam><at>gmail<dot>com"
 
 ## Extras
 [params.extra]
-copyright = "© 2016. Akshay Shipurkar. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)." 
-poweredby = true 
+copyright = "© 2016. Akshay Shipurkar. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
+poweredby = true
 hightlightjs = true
 
 ## Main Menu
